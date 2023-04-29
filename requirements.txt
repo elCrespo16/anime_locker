@@ -3,5 +3,6 @@ pydantic==1.10.7
 pyminizip==0.2.6
 PySimpleGUI==4.60.4
 natsort==8.3.1
+pyinstaller==5.10.1
 
 # This packages may need to have their own installation to take a closer look into their documentation

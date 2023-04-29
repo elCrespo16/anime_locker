@@ -2,3 +2,6 @@ __pycache__
 .python-version
 anime_locker/
 .DS_Store
+*.spec
+build
+dist
